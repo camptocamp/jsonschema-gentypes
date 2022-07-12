@@ -6,6 +6,8 @@
 
 #### :wrench: Build, CI, Tests, Code style
 
+- Fix the changelog generation [\#270](https://github.com/camptocamp/jsonschema-gentypes/pull/270) ([sbrunner](https://github.com/sbrunner))
+- Update the changelog [\#269](https://github.com/camptocamp/jsonschema-gentypes/pull/269) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update the changelog [\#267](https://github.com/camptocamp/jsonschema-gentypes/pull/267) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [1.2.1](https://github.com/camptocamp/jsonschema-gentypes/tree/1.2.1) (2022-07-11)
